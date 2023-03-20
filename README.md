@@ -4,7 +4,7 @@ In this automation project created using **Selenium Python + BDD(Behave)** we te
 
 ## Which software do you need to run this project?
 
-* Windows 11
+* Windows 10/11
 * Python 3.11.2 [Download here](https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe)
 * Pip 23.0.1
 * Behave 1.2.6
